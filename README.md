@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently a Year 1 student at NTU majoring in Data Science and Artificial Intelligence.
 
 <!--
 **spaceman03/spaceman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
