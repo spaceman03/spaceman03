@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 I'm a Year 1 student at NTU majoring in Data Science and Artificial Intelligence.  
 I am willing to learn and am currently learning more about data science out of school through online courses.
 
-#### 🌱 I'm currently learning
+### 🌱 I'm currently learning
 - Object Oriented Programming (Java/C++)
 - Data Structures and Algorithms
 
