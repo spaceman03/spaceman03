@@ -5,7 +5,7 @@ I am willing to learn and am currently learning more about data science out of s
 ### 🌱 I'm currently learning
 - Object Oriented Programming (Java/C++)
 - Data Structures and Algorithms
-- Data Science (Python)
+- Data Science (Python: Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, Seaborn, Statsmodels)
 
 <!--
 **spaceman03/spaceman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
