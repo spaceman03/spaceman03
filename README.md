@@ -6,11 +6,14 @@ I am willing to learn and am currently learning more about data science out of s
 - Object Oriented Programming (Java/C++)
 - Data Structures and Algorithms
 
-#### Programming Languages
+### Programming Languages
 - Python (Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, Seaborn, Statsmodels)
 - Java
 - C
 - C++
+
+### My GitHub Stats
+[![Zhi Xuan's GitHub stats](https://github-readme-stats.vercel.app/apispaceman03=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **spaceman03/spaceman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
