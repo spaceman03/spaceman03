@@ -5,15 +5,20 @@ I am willing to learn and am currently learning more about data science out of s
 ### 🌱 I'm currently learning
 - Object Oriented Programming (Java/C++)
 - Data Structures and Algorithms
+- Data Science (Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, Seaborn, Statsmodels)
 
 ### Programming Languages
-- Python (Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, Seaborn, Statsmodels)
-- Java
-- C
-- C++
+![Python](https://img.shields.io/badge/-Python-ADD8E6?style=for-the-badge&logo=Python) 
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=c%2B%2B)
 
 ### My GitHub Stats
-[![Zhi Xuan's GitHub stats](https://github-readme-stats.vercel.app/apispaceman03=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![spaceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceman03&show_icons=true&icon_color=7393B3&bg_color=000000&text_color=FFFFFF&title_color=89CFF0)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Resources
+- [Badges](https://github.com/xtenzQ/xtenzQ)
+- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **spaceman03/spaceman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
