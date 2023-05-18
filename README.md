@@ -13,6 +13,9 @@ I am willing to learn and am currently learning more about data science out of s
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=c%2B%2B)
 
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-0B0B45?style=for-the-badge&logo=MySQL)
+
 ### My GitHub Stats
 [![spaceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceman03&show_icons=true&icon_color=7393B3&bg_color=000000&text_color=FFFFFF&title_color=89CFF0)](https://github.com/anuraghazra/github-readme-stats)
 
