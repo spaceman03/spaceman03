@@ -3,9 +3,9 @@ I'm a Year 1 student at NTU majoring in Data Science and Artificial Intelligence
 I am willing to learn and am currently learning more about data science out of school through online courses.
 
 ### 🌱 I'm currently learning
-- Object Oriented Programming (Java/C++)
 - Data Structures and Algorithms
 - Data Science (Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow, Statsmodels, Seaborn, Plotly, Cufflinks)
+- Databases (SQL)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-ADD8E6?style=for-the-badge&logo=Python) 
