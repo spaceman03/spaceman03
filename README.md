@@ -12,6 +12,7 @@ I am willing to learn and am currently learning more about data science out of s
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=c%2B%2B)
+![R](https://img.shields.io/badge/-R-lightblue?style=for-the-badge&logo=R) 
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-0B0B45?style=for-the-badge&logo=MySQL)
