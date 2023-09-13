@@ -7,6 +7,7 @@ I am willing to learn and am currently learning more about data science out of s
 - Data Science (Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow, Statsmodels, Seaborn, Plotly, Cufflinks)
 - Databases (SQL)
 - Web Development (HTML, CSS)
+- Cybersecurity
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-ADD8E6?style=for-the-badge&logo=Python) 
