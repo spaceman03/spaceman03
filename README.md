@@ -5,9 +5,10 @@ I am willing to learn and am currently learning more about data science out of s
 ### 🌱 I'm currently learning
 - Data Structures and Algorithms
 - Data Science (Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow, Statsmodels, Seaborn, Plotly, Cufflinks)
+- Data Analysis (R)
 - Databases (SQL)
 - Web Development (HTML, CSS, React)
-- Cybersecurity
+- Artificial Intelligence
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-ADD8E6?style=for-the-badge&logo=Python) 
