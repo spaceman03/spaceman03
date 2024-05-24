@@ -9,6 +9,7 @@ I am willing to learn and am currently learning more about data science out of s
 - Databases (SQL)
 - Web Development (HTML, CSS, React)
 - Artificial Intelligence
+- RPA (UiPath)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-ADD8E6?style=for-the-badge&logo=Python) 
