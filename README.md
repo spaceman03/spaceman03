@@ -1,15 +1,11 @@
 ## Hi there 👋
-I'm a Year 2 student at NTU majoring in Data Science and Artificial Intelligence.  
+I'm an incoming Year 3 student at NTU majoring in Data Science and Artificial Intelligence.  
 I am willing to learn and am currently learning more about data science out of school through online courses.
 
 ### 🌱 I'm currently learning
-- Data Structures and Algorithms
-- Data Science (Pandas, Numpy, Matplotlib, Scikit-learn, Tensorflow, Statsmodels, Seaborn, Plotly, Cufflinks)
-- Data Analysis (R)
 - Databases (SQL)
-- Web Development (HTML, CSS, React)
-- Artificial Intelligence
 - RPA (UiPath)
+- VB.net
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-ADD8E6?style=for-the-badge&logo=Python) 
