@@ -4,7 +4,7 @@ I am willing to learn and am currently learning more about data science out of s
 
 ### 🌱 I'm currently learning
 - Databases (SQL)
-- RPA (UiPath)
+- Robotic Process Automation (UiPath)
 - VB.net
 
 ### Programming Languages
