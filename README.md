@@ -6,6 +6,7 @@ I am willing to learn and am currently learning more about data science out of s
 - Databases (SQL)
 - Robotic Process Automation (UiPath)
 - VB.net
+- Data Engineering
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-ADD8E6?style=for-the-badge&logo=Python) 
