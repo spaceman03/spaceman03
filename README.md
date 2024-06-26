@@ -8,11 +8,10 @@ I am willing to learn and am currently learning more about data science out of s
 - Data Engineering
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-ADD8E6?style=for-the-badge&logo=Python) 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=c%2B%2B)
-![R](https://img.shields.io/badge/-R-lightblue?style=for-the-badge&logo=R) 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,py,r,react,&perline=10&theme=light)](https://skillicons.dev)   
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,eclipse,github,vscode,&perline=5&theme=light)](https://skillicons.dev)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-0B0B45?style=for-the-badge&logo=MySQL)
