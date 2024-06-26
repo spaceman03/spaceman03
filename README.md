@@ -8,19 +8,19 @@ I am willing to learn and am currently learning more about data science out of s
 - Data Engineering
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,py,r,react,&perline=10&theme=light)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,py,r,react,&perline=10&theme=light)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,&perline=10&theme=light)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,eclipse,github,vscode,&perline=5&theme=light)](https://skillicons.dev)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-0B0B45?style=for-the-badge&logo=MySQL)
 
 ### My GitHub Stats
 [![spaceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceman03&show_icons=true&icon_color=7393B3&bg_color=000000&text_color=FFFFFF&title_color=89CFF0)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Resources
-- [Badges](https://github.com/xtenzQ/xtenzQ)
+- [Badges](https://github.com/tandpfun/skill-icons)
 - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
