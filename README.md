@@ -7,7 +7,7 @@ I am willing to learn and am currently learning more about data science out of s
 - Machine Learning
 - Neural Networks & Deep Learning
 - Natural Language Processing
-- Data Mining & Analytics
+- Data Analytics & Mining
 - Data Engineering
 
 ### Programming Languages
