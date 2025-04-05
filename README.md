@@ -7,10 +7,10 @@ I am willing to learn and am currently learning more about data science out of s
 - Large Language Models
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,py,r,react,&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,py,r,&perline=10&theme=light)](https://skillicons.dev)
 
 ### Libraries
-[![My Skills](https://skillicons.dev/icons?i=pytorch,&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,react,&perline=10&theme=light)](https://skillicons.dev)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,&perline=10&theme=light)](https://skillicons.dev)
