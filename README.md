@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Year 3 student at NTU majoring in Data Science and Artificial Intelligence.  
+I'm a final year student at NTU majoring in Data Science and Artificial Intelligence.  
 I am willing to learn and am currently learning more about data science out of school through online courses.
 
 ### 🌱 I'm currently learning
