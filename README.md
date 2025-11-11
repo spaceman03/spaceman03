@@ -6,17 +6,20 @@ I am willing to learn and am currently learning more about AI out of school thro
 - Natural Language Processing
 - Large Language Models
 
-### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,py,r,&perline=10&theme=light)](https://skillicons.dev)
+### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,r,js,html,css,&perline=10&theme=dark)](https://skillicons.dev)
 
-### Libraries
-[![My Skills](https://skillicons.dev/icons?i=pytorch,react,&perline=10&theme=light)](https://skillicons.dev)
+### 🧠 AI & Machine Learning Frameworks
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,&perline=10&theme=dark)](https://skillicons.dev)
 
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,&perline=10&theme=light)](https://skillicons.dev)
+### 🌐 Web Development
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react&perline=5&theme=dark)](https://skillicons.dev)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,eclipse,github,vscode,&perline=5&theme=light)](https://skillicons.dev)
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql&perline=5&theme=dark)](https://skillicons.dev)
+
+### ⚙️ Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,anaconda,vscode,eclipse,github,linux&perline=8&theme=dark)](https://skillicons.dev)
 
 ### My GitHub Stats
 [![spaceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceman03&show_icons=true&icon_color=7393B3&bg_color=000000&text_color=FFFFFF&title_color=89CFF0)](https://github.com/anuraghazra/github-readme-stats)
