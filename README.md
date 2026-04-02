@@ -22,7 +22,7 @@ I am willing to learn and am currently learning more about AI out of school thro
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,anaconda,vscode,eclipse,github,linux&perline=8&theme=dark)](https://skillicons.dev)
 
 ### My GitHub Stats
-[![spaceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceman03)](https://github.com/spaceman03/github-readme-stats)
+[![spaceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceman03&show_icons=true&icon_color=7393B3&bg_color=000000&text_color=FFFFFF&title_color=89CFF0)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Resources
 - [Badges](https://github.com/tandpfun/skill-icons)
